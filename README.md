@@ -8,7 +8,7 @@ Please work through each challenge one-by-one to help the Zookeepers restore ord
 
 ---
 
-## How do solve the challenges?
+## How do I solve the challenges?
 
 - You will find 4 challenges in the [Program.cs](./SnoozyZoos/Program.cs) file.
 
